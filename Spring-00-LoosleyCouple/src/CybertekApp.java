@@ -4,9 +4,9 @@ import service.MentorAccount;
 public class CybertekApp {
     public static void main(String[] args) {
 
-        FullTimeMentor fullTimeMentor = new FullTimeMentor();
+        FullTimeMentor fullTime = new FullTimeMentor();
 
-        MentorAccount mentor = new MentorAccount(fullTimeMentor);
+        MentorAccount mentor = new MentorAccount(fullTime);
 
         mentor.manageAccount();
     }
