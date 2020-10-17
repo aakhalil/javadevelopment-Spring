@@ -6,7 +6,7 @@
 
     <bean id ="fullTimeMentor"  class = "services.FullTimeMentor" ></bean>
 
-
+    <bean id ="partTimeMentor"  class = "services.PartTimeMentor" ></bean>
 
 
 
