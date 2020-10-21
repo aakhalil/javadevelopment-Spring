@@ -11,10 +11,10 @@ public class CybertekApp {
         // create a container to save the beans that come from config.xml
         ApplicationContext container = new ClassPathXmlApplicationContext("config.xml");
 
-        // with moryphysm
+        // with moryphorism
         //  Mentor mentor = new FullTimeMentor();
 
-        // we need to down cast
+        // we need to downcast
         Mentor mentor = (Mentor) container.getBean("fullTimeMentor");
 
         mentor.createAccount();
@@ -22,9 +22,8 @@ public class CybertekApp {
         Mentor mentor1 = (Mentor) container.getBean("partTimeMentor");
         mentor1.createAccount();
 
-       // to create an object
+       // to create an object  ( if we dont want to cast it down )
         Mentor mentor2 = container.getBean("fullTimeMentor", Mentor.class);
-
 
 
 

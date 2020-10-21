@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spriing-02-DI-Constructorsinjection/Spriing-02-DI-Constructorsinjection.iml" filepath="$PROJECT_DIR$/Spriing-02-DI-Constructorsinjection/Spriing-02-DI-Constructorsinjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LoosleyCouple/Spring-00-LoosleyCouple.iml" filepath="$PROJECT_DIR$/Spring-00-LoosleyCouple/Spring-00-LoosleyCouple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCouple/Spring-00-TightlyCouple.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCouple/Spring-00-TightlyCouple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" filepath="$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" filepath="$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" />
     </modules>
   </component>
