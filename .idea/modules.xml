@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" filepath="$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifiers/Spring-05-JavaAnnotations-Qualifiers.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifiers/Spring-05-JavaAnnotations-Qualifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" filepath="$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" filepath="$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" />
     </modules>
