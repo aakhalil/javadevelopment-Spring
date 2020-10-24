@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" filepath="$PROJECT_DIR$/Spring-04-Beanlifesycle/Spring-04-Beanlifesycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" filepath="$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" filepath="$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" />
     </modules>
   </component>
