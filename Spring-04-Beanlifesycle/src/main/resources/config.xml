@@ -4,12 +4,22 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <!-- we can inject init method that will run before , and we can add destroy method that run after. we call those method from java class
 
-    <bean id ="java"  class = "com.cybertek.services.Java"  init-method="myInitMethod"  destroy-method="myDestroyMethod" ></bean>
+     public void myInitMethod(){
+        System.out.println("Executing init method");
+    }
+
+    public void myDestroyMethod(){
+        System.out.println("Executing destroy method");
 
 
-
-
+    -->
+    <bean id ="java"
+          class = "com.cybertek.services.Java"
+          init-method="myInitMethod"
+          destroy-method="myDestroyMethod"
+    ></bean>
 
 
 </beans>

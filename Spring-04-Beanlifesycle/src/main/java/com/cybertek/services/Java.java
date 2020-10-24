@@ -12,7 +12,6 @@ public class Java implements Course {
 
     }
 
-
     public void myInitMethod(){
         System.out.println("Executing init method");
     }
