@@ -10,11 +10,11 @@ import org.springframework.stereotype.Component;
 public class Java implements Course {
 
 
-    // we can use field injector
+    // we can use field injection on the top of the variable
     @Autowired
     private OfficeHours officeHours;
 /*
-    // we should add annotation @Autowired to inject this Office hours if there is more than one constructor
+    // we should add annotation @Autowired to inject this Office hours constructor if there is more than one constructor
    @Autowired
     public Java(OfficeHours officeHours) {
        this.officeHours = officeHours;
