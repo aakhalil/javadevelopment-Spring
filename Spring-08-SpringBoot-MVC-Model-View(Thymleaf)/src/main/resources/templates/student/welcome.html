@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+</head>
+<body>
+
+<h2>Welcome Student page </h2>
+
+<!--  hard coded  text , it will NOT print HELLO , it will print the text -->
+<h3  th:text="${ 'This is the class for today' }">  HELLO  </h3>
+
+<!--  value coming from the model text  -->
+<h3 th:text=" 'Hello there '+ ${name}"> </h3>
+
+<h3 th:text=" 'todays course is ' + ${course}">  </h3>
+
+<h4 th:text="${subject}"></h4>
+
+<h3 th:text="${subject}">  </h3>
+
+<h2 th:text="${id}">  </h2>
+
+<h6 th:text="${numbers.get(2)}" ></h6>
+
+<h2 th:text="${birthday}"> </h2>
+
+<h2 th:text="${ 'Hello there ' + name}"> </h2>
+
+<!--  getting object  -->
+<h2 th:text="${student.getFirstName()}"> </h2>
+
+<!--  or just put the first/last name without getter -->
+<h2 th:text="${student.lastName}"> </h2>
+
+
+<!--  LINKS  -->
+
+
+<a th:href="@{https://icreatecafe.com}" > iCreate Cafe </a>
+<br>
+<a th:href="@{/student/register}" > Register</a>
+<br>
+<!--  to open in new tab   -->
+<a th:href="@{/student/register}"  target="_blank" > Register</a>
+<br>
+<!--  Adding Paramerreter to links   -->
+
+<a th:href="@{/student/welcome(id=3)}"  >Link2</a>
+<br>
+<a th:href="@{/student/welcome(id=${student.id})}"  >Link3</a>
+<br>
+
+<!--  Iteration with list   -->
+
+<ul>
+    <!--  without the second part it will only print 4 dots    -->
+    <li th:each="number : ${numbers}" th:text="${number}"></li>
+</ul>
+
+<!--  FRAGMENTS    -->
+
+
+<div th:replace="fragments/footer :: fatih"  >
+
+</div>
+
+
+
+</body>
+</html>

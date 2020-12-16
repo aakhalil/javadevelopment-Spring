@@ -15,6 +15,14 @@
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifiers/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-Value/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-SpringBOOT-Ioc-DI-Lab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Model-View(Thymleaf)/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08 SpringBoot-MVC-FORM/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09-ORM-TableCreation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/pom.xml" />
       </list>
     </option>
   </component>

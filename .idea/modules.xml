@@ -14,6 +14,15 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" filepath="$PROJECT_DIR$/Spring-06-JavaAnnonation-autowired/Spring-06-JavaAnnonation-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBOOT-Ioc-DI-Lab/Spring-07-SpringBOOT-Ioc-DI-Lab.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBOOT-Ioc-DI-Lab/Spring-07-SpringBOOT-Ioc-DI-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-08 SpringBoot-MVC-FORM/Spring-08 SpringBoot-MVC-FORM.iml" filepath="$PROJECT_DIR$/Spring-08 SpringBoot-MVC-FORM/Spring-08 SpringBoot-MVC-FORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/Spring-08-SpringBoot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/Spring-08-SpringBoot-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Model-View(Thymleaf)/Spring-08-SpringBoot-MVC-Model-View(Thymleaf).iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Model-View(Thymleaf)/Spring-08-SpringBoot-MVC-Model-View(Thymleaf).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-TableCreation/Spring-09-ORM-TableCreation.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-TableCreation/Spring-09-ORM-TableCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-SQL-Review/Spring-09-SQL-Review.iml" filepath="$PROJECT_DIR$/Spring-09-SQL-Review/Spring-09-SQL-Review.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" filepath="$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" />
     </modules>
   </component>
