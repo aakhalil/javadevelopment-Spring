@@ -1,7 +1,6 @@
 package com.cybertek.entity;
 
 import com.cybertek.enums.Gender;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -10,30 +9,31 @@ import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
-@Table(name="employee")
+@Table(name = "employees")
 @Getter
 @Setter
 @NoArgsConstructor
-public class Employee extends BaseEntity{
+public class Employee extends BaseEntity {
 
     private String firstName;
     private String lastName;
     private String email;
 
-    @Column(columnDefinition = "Date")
+    @Column(columnDefinition = "DATE")
     private LocalDate hireDate;
 
     @Enumerated(EnumType.STRING)
     private Gender gender;
 
-    private int Salary;
+    private int salary;
 
-
-// creating relationship between department and employee
     @OneToOne(cascade = CascadeType.ALL)
-    @JoinColumn (name= "department_id")
-    private  Department department;
+    @JoinColumn(name = "department_id")
+    private Department department;
 
+    @OneToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name="region_id")
+    private Region region;
 
     public Employee(String firstName, String lastName, String email, LocalDate hireDate, Gender gender, int salary) {
         this.firstName = firstName;
@@ -41,6 +41,7 @@ public class Employee extends BaseEntity{
         this.email = email;
         this.hireDate = hireDate;
         this.gender = gender;
-        Salary = salary;
+        this.salary = salary;
     }
 }
+
