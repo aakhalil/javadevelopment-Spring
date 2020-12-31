@@ -5,18 +5,20 @@ import com.cybertek.enums.MovieType;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
+
 
 @Entity
 @Getter
 @Setter
 @NoArgsConstructor
+@ToString
 public class Movie extends BaseEntity {
 
     private String name;
