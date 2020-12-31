@@ -11,8 +11,8 @@
 	<groupId>com</groupId>
 	<artifactId>cybertek</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cybertek</name>
-	<description>Cinemalab</description>
+	<name>derivedquires </name>
+	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
