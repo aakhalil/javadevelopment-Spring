@@ -16,7 +16,7 @@
 
     -->
     <bean id ="java"
-          class = "com.cybertek.services.Java"
+          class = "com.com.cybertek.services.Java"
           init-method="myInitMethod"
           destroy-method="myDestroyMethod"
     ></bean>

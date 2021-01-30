@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 
-// in this file we need to have @Configuration and @ComponentScan("com.cybertek") top scan the classes in the packages
+// in this file we need to have @Configuration and @ComponentScan("com.com.cybertek") top scan the classes in the packages
 
 @Configuration
 @ComponentScan("com.cybertek")

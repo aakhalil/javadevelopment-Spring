@@ -26,7 +26,18 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-TableCreation/Spring-09-ORM-TableCreation.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-TableCreation/Spring-09-ORM-TableCreation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-SQL-Review/Spring-09-SQL-Review.iml" filepath="$PROJECT_DIR$/Spring-09-SQL-Review/Spring-09-SQL-Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-CustomConfiguration/Spring-10-Security-CustomConfiguration.iml" filepath="$PROJECT_DIR$/Spring-10-Security-CustomConfiguration/Spring-10-Security-CustomConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-DefauktConfiguration/Spring-10-Security-DefauktConfiguration.iml" filepath="$PROJECT_DIR$/Spring-10-Security-DefauktConfiguration/Spring-10-Security-DefauktConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" filepath="$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-HTTPBasic-AuthorizationRoleBase/Spring-10-Security-HTTPBasic-AuthorizationRoleBase.iml" filepath="$PROJECT_DIR$/Spring-10-Security-HTTPBasic-AuthorizationRoleBase/Spring-10-Security-HTTPBasic-AuthorizationRoleBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Legacy/Spring-11-Rest-HttpVerbs-Legacy.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Legacy/Spring-11-Rest-HttpVerbs-Legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Preffred/Spring-11-Rest-HttpVerbs-Preffred.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Preffred/Spring-11-Rest-HttpVerbs-Preffred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-RestResponseentity/Spring-11-Rest-RestResponseentity.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-RestResponseentity/Spring-11-Rest-RestResponseentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-RestTemplate/Spring-11-Rest-RestTemplate.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-RestTemplate/Spring-11-Rest-RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-SchoolLab/Spring-11-Rest-SchoolLab.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-SchoolLab/Spring-11-Rest-SchoolLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" filepath="$PROJECT_DIR$/.idea/javadevelopment-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-HTTPBasic-DataBase/security.iml" filepath="$PROJECT_DIR$/Spring-10-Security-HTTPBasic-DataBase/security.iml" />
     </modules>
   </component>
 </project>

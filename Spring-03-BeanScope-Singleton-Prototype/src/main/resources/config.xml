@@ -6,11 +6,11 @@
     <!-- we use the scope either signleton ( default) or prototype which will creat object for each class -->
 
     <bean id ="java"
-          class = "com.cybertek.services.Java"
+          class = "com.com.cybertek.services.Java"
           scope="prototype"
     ></bean>
 
-    <bean id ="selenium"  class = "com.cybertek.services.Selenium" ></bean>
+    <bean id ="selenium"  class = "com.com.cybertek.services.Selenium" ></bean>
 
 
 

@@ -25,8 +25,8 @@ public class CybertekApp {
 
         /*
         Pointing to the same object:false
-Memory Location for the course1:com.cybertek.services.Java@7e6f74c
-Memory Location for the course1:com.cybertek.services.Java@dd05255
+Memory Location for the course1:com.com.cybertek.services.Java@7e6f74c
+Memory Location for the course1:com.com.cybertek.services.Java@dd05255
          */
 
 

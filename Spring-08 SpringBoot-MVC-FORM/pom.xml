@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>cybertek</artifactId>
+	<artifactId>com.cybertek</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cybertek</name>
+	<name>com.cybertek</name>
 	<description>form</description>
 
 	<properties>
